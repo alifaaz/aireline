@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "alifaaza_homes",
+    "password": "ugdfaaz@123",
+    "database": "alifaaza_airplane",
+    "host": "51.91.31.37",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
